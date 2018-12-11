@@ -17,7 +17,7 @@ public class MybatisController {
 
     @RequestMapping("/query")
     @ResponseBody
-    public List<User> queryUserList(){
+    public List<User> queryUserList() {
         List<User> users = userMapper.queryUserList();
         return users;
     }

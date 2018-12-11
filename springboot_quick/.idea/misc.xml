@@ -7,8 +7,8 @@
         <option value="$PROJECT_DIR$/pom.xml" />
         <option value="$PROJECT_DIR$/../pom.xml" />
         <option value="$PROJECT_DIR$/../springboot_quick2/pom.xml" />
-        <option value="$PROJECT_DIR$/../springboot_mybatis/pom.xml" />
         <option value="$PROJECT_DIR$/../springboot_jpa/pom.xml" />
+        <option value="$PROJECT_DIR$/../sky/pom.xml" />
       </list>
     </option>
   </component>

@@ -1,12 +1,12 @@
-package com.itheima;
+package com.example;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 @SpringBootApplication
-public class SpringbootMybatisApplication {
+public class SkyApplication {
 
     public static void main(String[] args) {
-        SpringApplication.run(SpringbootMybatisApplication.class, args);
+        SpringApplication.run(SkyApplication.class, args);
     }
 }

@@ -18,7 +18,7 @@ public class MybatisTest {
     private UserMapper userMapper;
 
     @Test
-    public void test(){
+    public void test() {
         List<User> users = userMapper.queryUserList();
         System.out.println(users);
     }
